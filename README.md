@@ -13,7 +13,8 @@ thanks kiwenlan.
 download hadoop-3.3.1.tar.gz jdk-8u291-linux-x64.tar.gz file ,
 put them into install_tar directory.
 
-dockek build-image.sh
+chmod +x build-image.sh
+./build-image.sh
 ```
 
 ##### 2. clone github repository
