@@ -5,7 +5,7 @@
 according above Blog ，update hadoop 3.3.1 version , jdk-8u291-linux-x64.tar.gz version.
 thanks kiwenlan.
 
-### 3 Nodes Hadoop Cluster
+### Hadoop Cluster
 
 ##### 1. build docker image
 
