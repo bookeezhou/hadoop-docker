@@ -17,19 +17,13 @@ chmod +x build-image.sh
 ./build-image.sh
 ```
 
-##### 2. clone github repository
-
-```
-git clone https://github.com/kiwenlau/hadoop-cluster-docker
-```
-
-##### 3. create hadoop network
+##### 2. create hadoop network
 
 ```
 sudo docker network create --driver=bridge hadoop
 ```
 
-##### 4. start container
+##### 3. start container
 
 ```
 cd hadoop-cluster-docker
