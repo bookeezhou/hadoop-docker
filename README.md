@@ -26,7 +26,6 @@ sudo docker network create --driver=bridge hadoop
 ##### 3. start container
 
 ```
-cd hadoop-cluster-docker
 sudo ./start-container.sh
 ```
 
